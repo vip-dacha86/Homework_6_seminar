@@ -1,0 +1,15 @@
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\ДЗ.ГБ\Homework_6_seminar\task43\bin\Debug\net6.0\task43.exe
+C:\ДЗ.ГБ\Homework_6_seminar\task43\bin\Debug\net6.0\task43.deps.json
+C:\ДЗ.ГБ\Homework_6_seminar\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\ДЗ.ГБ\Homework_6_seminar\task43\bin\Debug\net6.0\task43.dll
+C:\ДЗ.ГБ\Homework_6_seminar\task43\bin\Debug\net6.0\task43.pdb
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.dll
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\refint\task43.dll
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.pdb
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\ДЗ.ГБ\Homework_6_seminar\task43\obj\Debug\net6.0\ref\task43.dll
